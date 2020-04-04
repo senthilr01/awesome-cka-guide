@@ -6,9 +6,6 @@ From my [Linkedin post](https://www.linkedin.com/posts/ravikumar-ramasamy-731468
 ## Are you pivoting towards Kubernetes?
 ## Aiming to power yourself with CKA?
 
-```
-
-```
 
 ***Here you go the ultimate CKA preparation guide and important notes from me...***
 
